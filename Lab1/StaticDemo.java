@@ -1,3 +1,4 @@
+package Lab1;
 public class StaticDemo {
 
     static int a = 42;

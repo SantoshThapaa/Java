@@ -1,3 +1,4 @@
+package Lab1;
 // Demonstrate static variables, methods, and blocks.
 class UseStatic {
     static int a = 3;

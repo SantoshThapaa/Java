@@ -1,3 +1,4 @@
+package Lab1;
 // Create multiple threads.
 class NewThread implements Runnable {
     String name; // name of thread

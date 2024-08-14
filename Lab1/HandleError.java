@@ -1,3 +1,4 @@
+package Lab1;
 //package bcaoop.exception;
 // Handle an exception and move on.
 import java.util.Random;

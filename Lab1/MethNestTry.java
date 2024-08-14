@@ -1,3 +1,4 @@
+package Lab1;
 public class MethNestTry {
     static void nesttry(int a) {
         try { // nested try block

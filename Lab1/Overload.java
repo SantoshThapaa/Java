@@ -1,4 +1,8 @@
+package Lab1;
 // Demonstrate method overloading.
+
+import OverloadDemo;
+
 class OverloadDemo {
     void test() {
         System.out.println("No parameters");

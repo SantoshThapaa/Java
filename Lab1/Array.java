@@ -1,3 +1,4 @@
+package Lab1;
 public class Array {
     public static void main(String[] args) {
         // Declare and initialize an array of integers

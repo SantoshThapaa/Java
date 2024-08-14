@@ -1,3 +1,4 @@
+package Lab1;
 // Demonstrate throw.
 public class ThrowDemo {
     static void demoproc() {

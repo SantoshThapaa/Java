@@ -1,4 +1,6 @@
+package Lab1;
 // Using abstract methods and classes.
+
 abstract class Figure {
     double dim1;
     double dim2;

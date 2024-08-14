@@ -1,3 +1,4 @@
+package Lab1;
 class RefDemo {
     public static void main(String[] args) {
         BoxWeight weightbox = new BoxWeight(3, 5, 7, 8.37);

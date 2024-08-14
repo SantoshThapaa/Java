@@ -1,3 +1,4 @@
+package Lab1;
 class Box {
     private double width;
     private double height;

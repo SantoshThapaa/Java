@@ -1,3 +1,4 @@
+package Lab1;
 public class NestTry {
     public static void main(String[] args) {
         try {

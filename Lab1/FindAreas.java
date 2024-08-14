@@ -1,3 +1,4 @@
+package Lab1;
 // Using run-time polymorphism.
 abstract class Figure { // Change 1: Make Figure an abstract class
     double dim1;

@@ -1,3 +1,4 @@
+package Lab1;
 // Demonstrate finally.
 public class FinallyDemo {
     // Throw an exception out of the method.
