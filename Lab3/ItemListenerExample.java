@@ -38,14 +38,13 @@ public class ItemListenerExample extends JFrame implements ItemListener {
 
     public void itemStateChanged(ItemEvent e) {
         if(e.getSource()==cb1){
-            label.setText("C++ checked" + (e.getStateChange()==1?"Checked":"Unchecked"));
+            label.setText("C++ is" + (e.getStateChange()==1?"Checked":"Unchecked"));
         }
 
         if(e.getSource()==cb2){
-            label.setText("Java checked " + (e.getStateChange()==1?"Checked":"Unchecked"));
+            label.setText("Java is " + (e.getStateChange()==1?"Checked":"Unchecked"));
         }
     }
-
     public static void main(String args[]){
         new ItemListenerExample();
     }
