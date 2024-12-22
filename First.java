@@ -6,7 +6,7 @@ public class First implements Servlet{
 
     public void init(ServletConfig config){
         this.config=config;
-        System.out.println("servlet is initialized");
+        System.out.println("Servlet is initialized");
     }
 
     public void service(ServletRequest req,ServletResponse res)
@@ -15,11 +15,11 @@ public class First implements Servlet{
 
         PrintWriter out=res.getWriter();
         out.print("<html><body>");
-        out.print("<b>Hello simple servlet</b>");
+        out.print("<b>Hello simple servlet fron Santosh.</b>");
         out.print("</body></html>");
 
     }
-    public void destroy(){System.out.println("servlet is destroyed");}
+    public void destroy(){System.out.println("Servlet is destroyed");}
     public ServletConfig getServletConfig(){return config;}
     public String getServletInfo(){return "copyright 2001-1010";}
     
