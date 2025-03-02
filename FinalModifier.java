@@ -1,7 +1,3 @@
-// Java Program to illustrate Final keyword
-// Where No final keyword Is Used
-
-// Importing required classes
 import java.io.*;
 import java.util.*;
 
@@ -31,12 +27,9 @@ class P {
 class C extends P {
 	public void surName()
 	{
-		// Display surname
 		System.out.println("Sharma");
 	}
 
-	// Method 2
-	// Main driver method
 	public static void main(String[] args)
 	{
 
