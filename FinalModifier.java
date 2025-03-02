@@ -1,21 +1,11 @@
 import java.io.*;
 import java.util.*;
 
-// Class 1
-// Super-class
 class P {
-
-	// Method 1
-	// To declare first name
 	public void firstName()
 	{
-
-		// Passing name and print it
 		System.out.println("Mayank");
 	}
-
-	// Method 2
-	// To declare last name
 	public void surName()
 	{
 
