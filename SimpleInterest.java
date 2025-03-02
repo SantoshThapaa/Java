@@ -62,7 +62,7 @@ class SimpleInterest extends JFrame implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         if (e.getSource() == b1) {
-            // Calculate Simple Interest
+            
             try {
                 int principal = Integer.parseInt(t1.getText());
                 int rate = Integer.parseInt(t2.getText());
