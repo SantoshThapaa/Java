@@ -28,13 +28,7 @@ class P {
 	}
 }
 
-// Class 2
-// Sub-class
-// Extending above class
 class C extends P {
-
-	// Method 1
-	// Trying to override the last name
 	public void surName()
 	{
 		// Display surname
@@ -46,7 +40,6 @@ class C extends P {
 	public static void main(String[] args)
 	{
 
-		// Display message
 		System.out.println("GFG");
 	}
 }
