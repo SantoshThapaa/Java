@@ -27,7 +27,7 @@ public class Server{
     }
 }
 
-// 4) Create Client
+
 import java.rmi.*;
 import java.io.*;
 public class Client{
